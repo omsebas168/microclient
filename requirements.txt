@@ -1,0 +1,12 @@
+flask
+sqlalchemy>=1.4
+# mysql-connector-python==8.0.22
+pymysql
+cryptography
+
+azure-identity==1.23.0
+azure-keyvault-secrets==4.9.0
+
+#delete in production
+python-dotenv
+
